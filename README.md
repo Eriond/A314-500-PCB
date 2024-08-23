@@ -7,4 +7,7 @@ A314 for Amiga 500 trapdoor
 <P>This repository contains the neccesary files for building an A314 for the Amiga 500's trapdoor. <br>
 The Eagle branch contain the original design from 2018-2020, which was made using CadSoft Eagle v.7<br>
 This design uses the Altera MAX10 FPGA, and has a serial connection (SPI) with the RPi.</P>
-<P>It is suggested that You use the latest/newest available version, as older revisions may need specialized firmware and software, or may even be incompatible with the latest features of the software suite.</P>
+<P>It is suggested that You use the latest/newest available version of the hardware/PCB, as older revisions may need specialized firmware and software, or may even be incompatible with the latest features of the software suite.</P>
+
+You can find the belonging FPGA binaries here:
+- <https://github.com/niklasekstrom/A314-500-HDL>
